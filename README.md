@@ -3,7 +3,7 @@
 ## Problem : 
 Given n, find number of bit-strings of length n which have no consecutive 2 zeros.
 
-##Solution :
+## Solution :
 For n=0, ans=0
 n=1, ans=2
 n=2, ans=3
